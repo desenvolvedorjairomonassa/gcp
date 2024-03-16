@@ -1,0 +1,36 @@
+{ "BigQuery Schema": 
+	[
+    {
+      "name": "Store",
+      "type": "integer"
+    },
+    {
+      "name": "Date",
+      "type": "string"
+    },
+    {
+      "name": "Weekly_Sales",
+      "type": "float"
+    },
+    {
+      "name": "Holiday_Flag",
+      "type": "integer"
+    },
+    {
+      "name": "Temperature",
+      "type": "float"
+    },
+    {
+      "name": "Fuel_Price",
+      "type": "float"
+    },
+    {
+      "name": "CPI",
+      "type": "float"
+    },
+    {
+      "name": "Unemployment",
+      "type": "float"
+    }
+  ]
+}

@@ -1,6 +1,4 @@
-## Building Data Pipelines for Machine Learning with BigQuery
-
-# gcp
+## Building Data Pipelines for Machine Learning with BigQuery - gcp
 The goal is to transfer the dataset to BigQuery and utilize BigQueryML to demonstrate how easy it is to create prediction models using SQL.
 
 # Steps:
@@ -17,3 +15,17 @@ The goal is to transfer the dataset to BigQuery and utilize BigQueryML to demons
 # ingestion
 The source data is from Kaggle, specifically Walmart sales. You can either download it directly from Kaggle or access it through this repository. I uploaded the data to Cloud Storage and then utilized Dataflow with a template to load the CSV files into BigQuery
 source: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
+
+
+# Bigquery, benefits:
+<img src="Captura de tela 2024-05-10 133527.png" alt="Descrição da imagem">
+- Scalability
+- Serverless
+- High Performance
+- Petabyte Analysis in Seconds
+- Columnar Storage
+- Integrated Machine Learning
+- High Availability
+- Security
+
+

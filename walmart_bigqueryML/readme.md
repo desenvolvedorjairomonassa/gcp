@@ -19,7 +19,8 @@ source: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
 
 # Bigquery, benefits:
 <img src="Captura de tela 2024-05-10 133527.png" alt="Descrição da imagem">
-- Scalability
+
+- **Scalability**
 - Serverless
 - High Performance
 - Petabyte Analysis in Seconds
@@ -28,4 +29,11 @@ source: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
 - High Availability
 - Security
 
+# Cloud Dataflow:
+<img src="Captura de tela 2024-05-10 133549.png" alt="Descrição da imagem">
 
+
+- Batch or streaming processing
+- Serveless
+- Various integrations
+- Can be coded in Python or Java

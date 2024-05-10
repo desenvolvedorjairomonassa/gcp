@@ -3,15 +3,16 @@
 # gcp
 The goal is to transfer the dataset to BigQuery and utilize BigQueryML to demonstrate how easy it is to create prediction models using SQL.
 
-# steps
-<img src="Captura de tela 2024-05-09 221842.png" alt="Descrição da imagem">
-** Load the data from Kagle to Cloud storage
-** Using dataflow template in order to migrate the data
-** Copy data to BigQuery
-** Create dataset
-** Create Model
-** Evaluation
-** Batch predictions
+# Steps:
+<img src="Captura de tela 2024-05-10 133354.png" alt="Descrição da imagem">
+
+- **Load the data from Kagle to Cloud storage**.
+- **Using dataflow template in order to migrate the data**.
+- **Copy data to BigQuery**.
+- **Create dataset**.
+- **Create Model**.
+- **Evaluation**.
+- **Batch predictions**.
 
 # ingestion
 The source data is from Kaggle, specifically Walmart sales. You can either download it directly from Kaggle or access it through this repository. I uploaded the data to Cloud Storage and then utilized Dataflow with a template to load the CSV files into BigQuery

@@ -37,3 +37,11 @@ source: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
 - Serveless
 - Various integrations
 - Can be coded in Python or Java
+
+# Cloud Bigquery ML
+<img src="Captura de tela 2024-05-10 133608.png" alt="Descrição da imagem">
+- Facilita acesso ao ML
+- Usa linguagem SQL
+- Aumenta velocidade inovação
+- Integra outras ferramentas do GCP
+

@@ -78,6 +78,8 @@ Architecture
 # create dataset in Bigquery and then create a table in this dataset
 <img src="Captura de tela 2024-09-25 160226.png">
 
+<img src="Captura de tela 2024-09-25 161737.png">
+
 
 
 

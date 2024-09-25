@@ -40,8 +40,44 @@ source: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
 
 # Cloud Bigquery ML
 <img src="Captura de tela 2024-05-10 133608.png" alt="Descrição da imagem">
+
 - Facilita acesso ao ML
 - Usa linguagem SQL
 - Aumenta velocidade inovação
 - Integra outras ferramentas do GCP
+
+# hands-on 
+Architecture 
+<img src="Captura de tela 2024-05-10 133633.png">
+
+- File available in cloud storage
+- Move forward using dataflow from cloud storage to bigquery
+
+# you need 
+
+- Dataset Kaggle www.kaggle.com
+- Walmart Sales (kaggle.com)
+- https://console.cloud.google.com/ FreeTier 300 dollars
+  
+# create new project
+<img src="Captura de tela 2024-09-25 155516.png">
+
+# Enter the name you want
+<img src="Captura de tela 2024-09-25 155814.png">
+
+# create new bucket
+<img src="Captura de tela 2024-09-25 155913.png">
+
+# Get the dataset
+- Download the dataset from Kaggle.
+- Take a look at the CSV file.
+- Create a schema for the CSV in JSON format.
+- Upload the dataset to the newly created bucket.(or get the git file walmart_sales.csv)
+- Upload the schema to the bucket. (see schema-walmart.json)
+
+# create dataset in Bigquery and then create a table in this dataset
+<img src="Captura de tela 2024-09-25 160226.png">
+
+
+
 

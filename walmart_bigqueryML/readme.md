@@ -81,5 +81,8 @@ Architecture
 <img src="Captura de tela 2024-09-25 161737.png">
 
 
+# enable api dataflow via cli
+in CLI type "gcloud services enable dataflow.googleapis.com"
+
 
 

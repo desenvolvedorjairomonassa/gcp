@@ -1,0 +1,6 @@
+google-cloud-storage
+google-cloud-functions
+pdfplumber
+requests
+sqlalchemy
+psycopg2

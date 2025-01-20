@@ -84,5 +84,22 @@ Architecture
 # enable api dataflow via cli
 in CLI type "gcloud services enable dataflow.googleapis.com"
 
+# Job Dataflow template
+
+A Dataflow template in Google Cloud Platform (GCP) is a pre-packaged Dataflow pipeline that can be easily deployed. These templates allow you to separate pipeline design from deployment, making it easier for different team members to collaborate. You can use templates to automate and streamline data processing tasks without needing a development environment1.
+link <a href="https://cloud.google.com/dataflow/docs/concepts/dataflow-templates">Dataflow template </a>
+
+<img src="Captura de tela 2024-09-25 213615.png">
+
+# Required Parameters from dataflow job
+<img src="Captura de tela 2024-09-25 213830.png">
 
 
+# Service account
+A service account in Google Cloud Platform (GCP) is a special type of account used by applications or virtual machines, or dataflow jobs to interact with GCP services, rather than by individual users
+
+The principle of least privilege means granting only the minimum permissions necessary for a user or service to perform its tasks, reducing the risk of unauthorized access: In this case you have to give this roles for service account running the job: bigquery data editor, bigquery job user, dataflow worker, storage object user
+<img src="Captura de tela 2024-09-25 213845.png">
+
+# Runned : Succeeded
+<img src="Captura de tela 2024-09-25 213949.png">

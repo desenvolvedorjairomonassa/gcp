@@ -103,3 +103,25 @@ The principle of least privilege means granting only the minimum permissions nec
 
 # Runned : Succeeded
 <img src="Captura de tela 2024-09-25 213949.png">
+
+# Predict using SQL command
+ML.FORECAST(MODEL ‘dataset.model_name)
+<img src="Captura de tela 2025-01-19 222827.png">
+
+# Exploring with BI (looker studio)
+<img src="Captura de tela 2025-01-19 222901.png">
+
+# Time Series Graph 
+<img src="Captura de tela 2025-01-19 222933.png">
+
+# using notebook 
+<img src="Captura de tela 2025-01-19 223016.png">
+
+ # using notebook with pandas
+<img src="Captura de tela 2025-01-19 223024.png">
+
+# Another data ingestion
+<img src="Captura de tela 2025-01-19 223032.png">
+
+# using visual interface
+<img src="Captura de tela 2025-01-19 223038.png">
